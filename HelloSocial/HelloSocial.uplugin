@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "HelloSocial",
+	"Description": "This plugin will do something, some day.",
+	"Category": "Jonathan",
+	"CreatedBy": "Your Company",
+	"CreatedByURL": "http://example.com",
+	"DocsURL": "http://example.com/docs",
+	"MarketplaceURL": "",
+	"Modules": [
+		{
+			"Name": "HelloSocial",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"EnabledByDefault": false,
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"Installed": false
+}
